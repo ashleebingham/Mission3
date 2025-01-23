@@ -1,0 +1,14 @@
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\bin\Debug\net8.0\Mission3.exe
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\bin\Debug\net8.0\Mission3.deps.json
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\bin\Debug\net8.0\Mission3.runtimeconfig.json
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\bin\Debug\net8.0\Mission3.dll
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\bin\Debug\net8.0\Mission3.pdb
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\Mission3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\Mission3.AssemblyInfoInputs.cache
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\Mission3.AssemblyInfo.cs
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\Mission3.csproj.CoreCompileInputs.cache
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\Mission3.dll
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\refint\Mission3.dll
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\Mission3.pdb
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\Mission3.genruntimeconfig.cache
+C:\Users\ashle\OneDrive - Brigham Young University\IS Core\IS413\Mission3\Mission3\obj\Debug\net8.0\ref\Mission3.dll
