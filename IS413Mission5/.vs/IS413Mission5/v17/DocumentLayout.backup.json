@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|c:\\users\\ashle\\onedrive - brigham young university\\is core\\is413\\mission3\\is413mission5\\is413mission5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|solutionrelative:is413mission5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|c:\\users\\ashle\\onedrive - brigham young university\\is core\\is413\\mission3\\is413mission5\\is413mission5\\views\\home\\time.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|solutionrelative:is413mission5\\views\\home\\time.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|c:\\users\\ashle\\onedrive - brigham young university\\is core\\is413\\mission3\\is413mission5\\is413mission5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|solutionrelative:is413mission5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|c:\\users\\ashle\\onedrive - brigham young university\\is core\\is413\\mission3\\is413mission5\\is413mission5\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|solutionrelative:is413mission5\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|c:\\users\\ashle\\onedrive - brigham young university\\is core\\is413\\mission3\\is413mission5\\is413mission5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B666D4D-41AD-4147-ABD5-3DD84DFBAB9D}|IS413Mission5\\IS413Mission5.csproj|solutionrelative:is413mission5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS413Mission5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IS413Mission5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T03:16:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IS413Mission5\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IS413Mission5\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T23:28:52.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\Views\\Home\\Time.cshtml",
+              "RelativeDocumentMoniker": "IS413Mission5\\Views\\Home\\Time.cshtml",
+              "ToolTip": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\Views\\Home\\Time.cshtml",
+              "RelativeToolTip": "IS413Mission5\\Views\\Home\\Time.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T23:31:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "IS413Mission5\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "IS413Mission5\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T01:01:54.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IS413Mission5\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ashle\\OneDrive - Brigham Young University\\IS Core\\IS413\\Mission3\\IS413Mission5\\IS413Mission5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IS413Mission5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:07:27.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
